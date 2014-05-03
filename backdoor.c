@@ -9,7 +9,6 @@
 
 // Define who I am and what the liscense is.
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Nat Welch <nat@natwelch.com>");
 MODULE_DESCRIPTION("Adds a backdoor to the linux system.");
 
 int init_module(void);
