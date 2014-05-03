@@ -1,6 +1,5 @@
 /**
  * A program to test /dev/backdoor
- * @author Nathaniel "Nat" Welch
  */
 
 #include <sys/types.h>
